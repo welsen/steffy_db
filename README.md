@@ -12,7 +12,7 @@ Well... same as every... rewrite from scratch.
 
 Planned compatibility is the same as the old plugin. Here you will have the chance to follow our progress as we progress.
 
-* [-] MongoDB
+* [ ] MongoDB
 * [ ] Postgres
 * [ ] MySQL/MariaDB
 * [ ] MSSQL
