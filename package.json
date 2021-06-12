@@ -1,0 +1,34 @@
+{
+  "name": "@steffy/db",
+  "version": "2.0.0",
+  "description": "Steffy DB Plugin [reimagined]",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/welsen/steffy_db.git"
+  },
+  "keywords": [
+    "Steffy",
+    "DB",
+    "ORM",
+    "Relational",
+    "Document",
+    "Mongo",
+    "Postgres",
+    "MySQL",
+    "MariaDB",
+    "MSSQL",
+    "ORACLE",
+    "NoSQL",
+    "SQL"
+  ],
+  "author": "David Onofer <david.onofer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/welsen/steffy_db/issues"
+  },
+  "homepage": "https://github.com/welsen/steffy_db#readme"
+}
