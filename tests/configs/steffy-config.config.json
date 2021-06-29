@@ -1,0 +1,18 @@
+{
+  "orm": {
+    "driver": "mongodb",
+    "options": {
+      "host": "hubphq-cms-mongo-d001.icellmobilsoft.hu",
+      "port": 27017,
+      "database": "cirmos",
+      "username": "admin",
+      "password": "adm631",
+      "settings": {
+        "authSource": "admin"
+      }
+    },
+    "paths": {
+      "entities": "./tests/entities"
+    }
+  }
+}
